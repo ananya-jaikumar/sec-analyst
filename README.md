@@ -16,7 +16,8 @@
 
 <br/>
 
-![Dashboard Preview](assets/screenshot.png)
+<img width="1470" height="800" alt="image" src="https://github.com/user-attachments/assets/74c2f8e6-ce53-4146-8c6e-91356393aff4" />
+
 
 </div>
 
